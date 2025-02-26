@@ -8,7 +8,10 @@ This is a **Micro Article Website** built using the following technologies:
 - **React Hook Form** (Form handling)  
 - **Parser** (Content processing)  
 
-You can use a demo on: jaypost-two.vercel.app
+You can use a demo on:
+```
+jaypost-two.vercel.app
+```
 
 The application allows users to create, edit, and view micro-articles while ensuring smooth state management, form validation, and backend integration with Appwrite.  
 
