@@ -5,7 +5,7 @@ return (
 <img 
 src="../../IMG_20250227_210506-removebg-preview.png"
 width={width}
-className={`animate-spin`styling}
+className={`animate-spin ${styling}`}
 />
 )
 }
