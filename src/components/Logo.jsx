@@ -3,9 +3,9 @@ import React from 'react'
 function Logo({width = '100px',styling}) {
 return (
 <img 
-src="../../IMG_20250227_210506-removebg-preview.png"
+src="https://toppng.com/uploads/preview/twitter-x-logo-white-logo-icon-hd-png-11690219118qg0z3hfxjk.png"
 width={width}
-className={`animate-spin ${styling}`}
+className={`shadow-xl ${styling}`}
 />
 )
 }
